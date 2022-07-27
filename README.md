@@ -11,3 +11,6 @@
 - Enter the path of discord(Find discord in task manager in the detail part, then open it in explorer)
 - Enter the message and the times that you want the program to spam
 - Enjoy it
+
+# Remind
+- Always open the channel page before you use this program
