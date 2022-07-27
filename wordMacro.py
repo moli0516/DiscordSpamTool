@@ -1,4 +1,3 @@
-from importlib.resources import path
 from tkinter import messagebox
 import tkinter as tk
 import pyautogui
