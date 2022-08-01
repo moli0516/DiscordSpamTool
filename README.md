@@ -1,4 +1,4 @@
-# WordMacro
+# Discord Spam Tool
 - A macro that can help you to spam the message
 
 # Function
