@@ -14,5 +14,5 @@
 
 # Remind
 - Always open the channel page before you use this program
-- Add a \ before a \ (just like C://a//b//c//Discord.exe)
+- Add a / before a / (just like C://a//b//c//Discord.exe)
 - Make sure only 1 `"` exist in the begining and the end of the data `path` (`"path"` not `""path""`)
